@@ -147,6 +147,77 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+=> Advantage of Python Programming Language 
+
+    1. Easy Syntax
+        print("Hello World") 
+    2. Interpreted Language 
+    3. Hight-Level Language 
+    4. Dynamic Type Language 
+        eg. Statically Type Language ( C C++ C# Java Go Swift )
+
+        eg. ( java example code )
+
+        public class Main{
+            public static void main(String[] args){
+                int x = 100; // Static type : int 
+                double y = 9.99;// Static type : double 
+                String name = "Aung Aung"; // Static type : String 
+
+                System.out.println("x value is " + x);
+                System.out.println("y value is " + y);
+            }
+        }
+
+        eg. ( python example code )
+
+        x = 10 # integer 
+        name = "Maung Maung" # string 
+
+        print("x value is " + x);
+        print("name value is " + name);
+
+    5. General Purpose Language 
+        Web Development , Data Analysis , Machine Learning , Artificial Intelligence , Game Devlopment , Mobile Applications 
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Ubuntu install Python
+
+    sudo apt update 
+    sudo apt upgrade -y 
+
+    sudo apt install   
+
+    => Install on Ubuntu 
+        ls 
+        tar -xvf Python-3.12.6 tar.xy
+        ls 
+        cd Python-3.12
+        ls 
+        ./configure 
+        make 
+        sudo make install 
+
+    => Check Version 
+        python3 --version
+
+        python3.12 --version
+
+        python3
+        ctl+d (or) exit()
+
+        l1sample.py
+        python3  l1sample.py 
+        python  l1sample.py
+        py      l1sample.py
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Comment ( inline comment )
+    # (or) ctr+/
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
