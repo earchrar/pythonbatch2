@@ -97,15 +97,6 @@ if isinstance({"name":"nu nu"},dict):
 else:
     print("No")
 
-# define Function 
-def sayhi():
-    print("Hello Aung Aung")
-
-sayhi()
-sayhi()
-
-
-
 # Comparsion Operators 
 # == Equal 
 # != Not Equal 
@@ -126,3 +117,9 @@ sayhi()
 # 5. Function with multi Return Values
 # 6. Lambda Function ( Anonymous Function )
 
+# define Function 
+def sayhi():
+    print("Hello Aung Aung")
+
+sayhi()
+sayhi()

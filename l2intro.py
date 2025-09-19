@@ -74,5 +74,3 @@ print(type(colors)) # <class 'list'>
 ages = [20,25,30,35]
 print(ages)
 print(type(ages)) # <class 'list'> 
-
-
