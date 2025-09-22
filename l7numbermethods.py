@@ -110,6 +110,6 @@ print(random.choice(numtuples)) #
 # To use the math module ! you need to import 
 # pow() / sqrt() / ceil() / floor() / random() / randint() / uniform() / choice() 
 # not math 
-# int() / abs() / float() / round() / pow() / divmod() / min() / max() / sum() / e (Euler Approximately) / math.exp(exponential) 
+# int() / abs() / float() / round() / pow() / divmod() / min() / max() / sum() / e (Euler Approximately) / math.exp(exponential) / math.log()
 
 

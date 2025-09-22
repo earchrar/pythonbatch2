@@ -29,8 +29,8 @@ print(tuple1[2]) # 3
 print(tuple2[3]) # 40
 print(tuple2[4]) # 50
 
-tuple1[0] = 100 # TypeError: 'tuple' object does not support item assignment
-tuple2[0] = 100 # TypeError: 'tuple' object does not support item assignment
+# tuple1[0] = 100 # TypeError: 'tuple' object does not support item assignment
+# tuple2[0] = 100 # TypeError: 'tuple' object does not support item assignment
 
 print(tuple1.count(1)) # 1
 print(tuple1.count(10)) # 0
